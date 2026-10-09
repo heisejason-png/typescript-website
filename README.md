@@ -197,4 +197,4 @@ Microsoft and any contributors reserve all other rights, whether under their res
 or trademarks, whether by implication, estoppel or otherwise.
 
 Created by Jason Heise
-Owned by Tha Paul Walker Foundation  https://paulwalkerfoundation.org
+Owned by Jason Heise heisejason-png Giters  https://paulwalkerfoundation.org
